@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakilans%2Fgo-module-demo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Golang Package and Module demo
 
 ### Notes
@@ -17,4 +19,4 @@
 ### 3rd party app expxort level
 
 - If any 3rd party app wants our package, then it need to import it via `go get` or import the URL
-- This module is consumed by [https://github.com/akilans/golang-class/tree/main/week5/01-pack-mod-demo]
+- This module is consumed by [https://github.com/akilans/golang-mini-projects/tree/main/09-pack-mod-demo]
